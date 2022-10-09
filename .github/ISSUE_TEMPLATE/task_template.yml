@@ -1,6 +1,5 @@
 name: Issue Template
-description: It can be used for any issues
-labels: status-new,priority-medium
+description: It can be used for any issue
 body:
   - type: textarea
     id: issue
